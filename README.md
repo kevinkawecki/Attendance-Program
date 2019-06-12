@@ -10,6 +10,6 @@ Requires QT installed on your machine to run properly.
 
 To operate with any ID card: 
   Edit the parsing of 'idNum' found in the swipe() function within cmmGui.h
-  The current input requires that the input lead with ';123457=' followed by the members 9-digit ID
+  The current input requires that the input lead with ';' followed by the members 9-digit ID and ends with '=1234'
   
 A demo history.txt and member.txt file are included for reference
